@@ -1,0 +1,5 @@
+<APP id="APP_upload_image_to_lcd">
+    <IMAGE id="CAT_1" type="Normal">.\Pic\a3.jpg</IMAGE>
+    <IMAGE id="CAT_2" type="Normal">.\Pic\a4.jpg</IMAGE>
+    <STRING>.\res\ref_list_upload_image_to_lcd.txt</STRING>
+</APP>
